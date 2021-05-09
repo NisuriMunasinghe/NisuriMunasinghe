@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 
 <div align="center" style="margin: auto; display: block">
   
-  <p align="center"><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=NisuriMunasinghe&show_icons=true&locale=en&layout=compact"
-        alt="NisuriMunasinghe" /></p>
+
 
 
 <p style="float: left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NisuriMunasinghe&show_icons=true&locale=en" alt="NisuriMunasinghe" /></p>
