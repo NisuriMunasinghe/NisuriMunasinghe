@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <div align="center" style="margin: auto; display: block" >
-  <img align="center" src="https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn&type=wave&color=auto&height=300&section=header&text=Hi%20there!%20:)&fontSize=90" />
+  <img align="center" src="https://capsule-render.vercel.app/api?animation=fadeIn&type=wave&color=auto&height=300&section=header&text=Hi%20there!%20:)&fontSize=90" />
   </div>
 
 <p align="Center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NisuriMunasinghe&no-bg-true&theme=darkhub" alt="NisuriMunasinghe" /></a> </p>
