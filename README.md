@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **NisuriMunasinghe/NisuriMunasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi there 👋</h1>
 [![trophy](https://github-profile-trophy.vercel.app/?username=NisuriMunasinghe)](https://github.com/ryo-ma/github-profile-trophy)
