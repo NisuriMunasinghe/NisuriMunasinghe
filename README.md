@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center" style="color:blue;">Hi there 👋</h1>
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20render&fontSize=90" />
 
 <p align="Center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NisuriMunasinghe&no-bg-true&theme=darkhub" alt="NisuriMunasinghe" /></a> </p>
 
