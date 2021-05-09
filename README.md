@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 
-<p style="float: left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NisuriMunasinghe&show_icons=true&locale=en&theme=gh_dark_blue"NisuriMunasinghe" /></p>
+<p style="float: left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NisuriMunasinghe&show_icons=true&locale=en&theme=highcontrast"NisuriMunasinghe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NisuriMunasinghe&theme=highcontrast" alt="NisuriMunasinghe" /></p>
 
