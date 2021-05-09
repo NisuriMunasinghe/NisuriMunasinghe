@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 <p align="Center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NisuriMunasinghe" alt="NisuriMunasinghe" /></a> </p>
 
-<div style="margin: auto; display: block">
-<p style="float: left" ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NisuriMunasinghe&show_icons=true&locale=en&layout=compact" alt="NisuriMunasinghe" /></p>
+<div align="center" style="margin: auto; display: block">
+
 
 <p style="float: left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NisuriMunasinghe&show_icons=true&locale=en" alt="NisuriMunasinghe" /></p>
 
