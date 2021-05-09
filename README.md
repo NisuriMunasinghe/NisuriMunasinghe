@@ -16,4 +16,13 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi there 👋</h1>
 
-<p align="Center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NisuriMunasinghe" alt="nipunaluthge" /></a> </p>
+<p align="Center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NisuriMunasinghe" alt="NisuriMunasinghe" /></a> </p>
+
+<div style="margin: auto; display: block">
+<p style="float: left" ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NisuriMunasinghe&show_icons=true&locale=en&layout=compact" alt="NisuriMunasinghe" /></p>
+
+<p style="float: left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NisuriMunasinghe&show_icons=true&locale=en" alt="NisuriMunasinghe" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NisuriMunasinghe&" alt="NisuriMunasinghe" /></p>
+<p style="margin: auto; display: block"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NisuriMunasinghe&" alt="NisuriMunasinghe" /></p>
+<div/>
