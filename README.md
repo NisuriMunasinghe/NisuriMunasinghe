@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-<div align="center" style="margin: auto; display: block" .bg-blue>
+<div align="center" style="margin: auto; display: block" >
   
 
 
