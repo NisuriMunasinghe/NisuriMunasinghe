@@ -18,6 +18,13 @@ Here are some ideas to get you started:
 <img src="https://cdn.dribbble.com/users/31818/screenshots/2091618/dribbb.gif" width="284" height="80"/>
 <img src="https://cdn.dribbble.com/users/31818/screenshots/2091618/dribbb.gif" width="284" height="80"/>
 
+<p style="float: left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisuriMunasinghe&count_private=true&layout=compact&langs_count=10" /></p> 
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NisuriMunasinghe)](https://github.com/NisuriMunasinghe/github-readme-stats)
+
 -->
 
 
@@ -35,12 +42,7 @@ Here are some ideas to get you started:
 
 <div align="center" style="margin: auto; display: block" >
   
-<p style="float: left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisuriMunasinghe&count_private=true&layout=compact&langs_count=10" /></p> 
 
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NisuriMunasinghe)](https://github.com/NisuriMunasinghe/github-readme-stats)
 
 
 <p style="float: left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NisuriMunasinghe&count_private=true&show_icons=true&locale=en&theme=chartreuse-dark"NisuriMunasinghe" /></p>
