@@ -46,10 +46,9 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://profile-counter.glitch.me/{NisuriMunasinghe}/count.svg" width="150" alt="NisuriMunasinghe :: Visitor's Count" /></p>
 
-  <br>
-  <br>
+ 
   <p>
-  <img align="center" src="https://i.pinimg.com/originals/8d/c4/68/8dc468e9a6bfee504dcce2af8ce6950c.gif" alt="Image" height="100" />
+  <img align="center" src="https://i.pinimg.com/originals/8d/c4/68/8dc468e9a6bfee504dcce2af8ce6950c.gif" alt="Image" height="120" />
   
 </p>
   
