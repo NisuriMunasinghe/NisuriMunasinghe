@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <div align="center" style="margin: auto; display: block" >
   
-<p style="float: left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisuriMunasinghe&count_private=true" /></p>  
+<p style="float: left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisuriMunasinghe&count_private=true&langs_count=10" /></p>  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NisuriMunasinghe)](https://github.com/NisuriMunasinghe/github-readme-stats)
 
