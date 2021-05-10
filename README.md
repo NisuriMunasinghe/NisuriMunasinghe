@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   </div>
 
  <h3 align="center">
-  <img align="center" src="https://i.redd.it/dbc57wpc7ar51.gif" alt="Image" height="80" />
+  <img align="center" src="https://i.redd.it/dbc57wpc7ar51.gif" alt="Image" height="60" />
   <img align="center" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/190f10cafb9836123a6757d583746096-1607512905/Attachment_1607512865/create-personalized-among-us-gif-and-png-for-you.gif" alt="Image" height="80" />
   <code>Languages and Tools:</code>
   <img align="center" src="https://i.imgur.com/AJPYieu.gif" alt="Image" height="80" />
