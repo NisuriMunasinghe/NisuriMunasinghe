@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <p style="float: left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisuriMunasinghe&count_private=true&layout=compact&langs_count=10" /></p> 
 
 
-[![NisuriMunasinghe Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NisuriMunasinghe)](https://github.com/NisuriMunasinghe/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NisuriMunasinghe)](https://github.com/NisuriMunasinghe/github-readme-stats)
 
