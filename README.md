@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=180&section=header&text=Hi%20there!%20ヾ(＾-＾)ノ&desc=%20&fontSize=25&descSize=20&fontAlignY=30" />
   </div>
 
-<p align="Center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NisuriMunasinghe&no-bg-true&theme=darkhub" alt="NisuriMunasinghe" /></a> </p>
+<p align="Center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NisuriMunasinghe&&count_private=true&no-bg-true&theme=darkhub" alt="NisuriMunasinghe" /></a> </p>
 
 
 
