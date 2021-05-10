@@ -52,6 +52,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/190f10cafb9836123a6757d583746096-1607512905/Attachment_1607512865/create-personalized-among-us-gif-and-png-for-you.gif" alt="Image" height="80" />
   <code>Languages and Tools:</code>
   <img align="center" src="https://i.imgur.com/AJPYieu.gif" alt="Image" height="80" />
+  <img align="center" src="https://cdn2.scratch.mit.edu/get_image/gallery/29071714_170x100.png" alt="Image" height="80" />
 </h3>
 <p align="center"> 
      <a href="https://reactjs.org/" target="_blank"><kbd>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></kbd>  </a> 
