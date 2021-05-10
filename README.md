@@ -99,6 +99,22 @@ Here are some ideas to get you started:
 
 
 
+<p align="center">
+  <a href="https://github.com/NisuriMunasinghe">
+    <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
+  </a>
+  <h4 align="center"><code>📊 GitHub Metrics</code></h4>
+</p>
+
+<p align="center">
+  <a href='https://github.com/NisuriMunasinghe/'>
+    <img width="75%" src="https://github.com/NisuriMunasinghe/NisuriMunasinghe/blob/master/metrics.svg"/>
+    <img src="https://github.com/NisuriMunasinghe/NisuriMunasinghe/blob/master/metrics.detailed.svg" width="75%"/>
+  </a>
+</p>
+
+
+
 <img src="https://i.pinimg.com/originals/5c/dd/ad/5cddadeb5ed4d48a582cfeb328160826.gif" width="200" height="150"/>
 
 
