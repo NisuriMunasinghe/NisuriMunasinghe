@@ -34,15 +34,12 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NisuriMunasinghe&theme=chartreuse-dark" alt="NisuriMunasinghe" /></p>
 
-<img src="https://cdn.dribbble.com/users/1194373/screenshots/3568962/ezgif.com-gif-maker__73_.gif" width="340" height="205"/>
 
 
-<img src="https://64.media.tumblr.com/4c404e274cad3d7dc133766ad6e2c184/tumblr_p6u02ohTvb1w3y4ilo1_500.gif" />
 
-
-<img src="https://cdn.dribbble.com/users/31818/screenshots/2091618/dribbb.gif" width="384" height="100"/>
-<img src="https://cdn.dribbble.com/users/31818/screenshots/2091618/dribbb.gif" width="284" height="100"/>
-<img src="https://cdn.dribbble.com/users/31818/screenshots/2091618/dribbb.gif" width="284" height="100"/>
+<img src="https://cdn.dribbble.com/users/31818/screenshots/2091618/dribbb.gif" width="384" height="80"/>
+<img src="https://cdn.dribbble.com/users/31818/screenshots/2091618/dribbb.gif" width="284" height="80"/>
+<img src="https://cdn.dribbble.com/users/31818/screenshots/2091618/dribbb.gif" width="284" height="80"/>
 
 
 
