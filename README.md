@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/190f10cafb9836123a6757d583746096-1607512905/Attachment_1607512865/create-personalized-among-us-gif-and-png-for-you.gif" alt="Image" height="80" />&nbsp;&nbsp;&nbsp;
    <img align="center" src="https://64.media.tumblr.com/73882834fcc10f4b8950110922de9e2a/d02a0f82b5157376-34/s400x600/da563fe4c554aa5f2045f64c2558bf1dd8f76466.gif" alt="Image" height="50" />
   <img align="center" src="https://i.imgur.com/AJPYieu.gif" alt="Image" height="80" />
+   <img align="center" src="https://i.pinimg.com/originals/8d/c4/68/8dc468e9a6bfee504dcce2af8ce6950c.gif" alt="Image" height="120" />
 
 -->
 
@@ -48,8 +49,8 @@ Here are some ideas to get you started:
 
  
   <p>
-  <img align="center" src="https://i.pinimg.com/originals/8d/c4/68/8dc468e9a6bfee504dcce2af8ce6950c.gif" alt="Image" height="120" />
-  <img align="center" src="https://data.whicdn.com/images/328100812/original.gif" alt="Image" height="180" />
+ 
+  <img align="center" src="https://data.whicdn.com/images/328100812/original.gif" alt="Image" height="200" />
   
 </p>
   
