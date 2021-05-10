@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 
 <div align="center" style="margin: auto; display: block" >
   
-
+<p style="float: left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisuriMunasinghe&count_private=true&layout=compact&langs_count=10" /></p> 
 
 
 <p style="float: left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NisuriMunasinghe&count_private=true&show_icons=true&locale=en&theme=chartreuse-dark"NisuriMunasinghe" /></p>
