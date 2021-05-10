@@ -49,7 +49,7 @@ Here are some ideas to get you started:
  
   <p>
   <img align="center" src="https://i.pinimg.com/originals/8d/c4/68/8dc468e9a6bfee504dcce2af8ce6950c.gif" alt="Image" height="120" />
-  <img align="center" src="https://data.whicdn.com/images/328100812/original.gif" alt="Image" height="120" />
+  <img align="center" src="https://data.whicdn.com/images/328100812/original.gif" alt="Image" height="180" />
   
 </p>
   
