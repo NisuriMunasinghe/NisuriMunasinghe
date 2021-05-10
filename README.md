@@ -64,12 +64,13 @@ Here are some ideas to get you started:
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </kbd></a> 
   <a href="https://www.mongodb.com/" target="_blank"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </kbd></a> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><kbd> <img src="https://brandslogos.com/wp-content/uploads/thumbs/microsoft-sql-server-logo-vector.svg" alt="mssql" width="40" height="40"/></kbd> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></kbd> </a> 
+  <a href="https://www.mysql.com/" target="_blank"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></kbd> </a>
+   <a href="https://www.typescriptlang.org/" target="_blank"><kbd>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></kbd>  </a> 
+  <a href="https://webpack.js.org" target="_blank"> <kbd> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/></kbd>  </a> </p>
   <br>
     <br>
    
-  <a href="https://www.typescriptlang.org/" target="_blank"><kbd>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></kbd>  </a> 
-  <a href="https://webpack.js.org" target="_blank"> <kbd> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/></kbd>  </a> </p>
+
   
 
   
