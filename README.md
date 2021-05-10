@@ -40,8 +40,8 @@ Here are some ideas to get you started:
   
   <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-  <a href="https://babeljs.io/" target="_blank"> <kbd><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </kbd></a> 
-  <a href="https://www.blender.org/" target="_blank"> <kbd><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </kbd></a> 
+  <a href="https://babeljs.io/" target="_blank"> <kbd class="dark-apple"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </kbd></a> 
+  <a href="https://www.blender.org/" target="_blank"> <kbd class="dark-apple"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </kbd></a> 
   <a href="https://getbootstrap.com" target="_blank"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </kbd></a> 
   <a href="https://www.cprogramming.com/" target="_blank"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </kbd></a> 
     <a href="https://www.w3schools.com/css/" target="_blank"><kbd> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></kbd> 
