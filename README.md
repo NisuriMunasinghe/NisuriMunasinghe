@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.dribbble.com/users/31818/screenshots/2091618/dribbb.gif" width="384" height="80"/>
 <img src="https://cdn.dribbble.com/users/31818/screenshots/2091618/dribbb.gif" width="284" height="80"/>
 <img src="https://cdn.dribbble.com/users/31818/screenshots/2091618/dribbb.gif" width="284" height="80"/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
 -->
 
 
@@ -25,9 +25,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=180&section=header&text=Hi%20there!%20ヾ(＾-＾)ノ&desc=%20&fontSize=25&descSize=20&fontAlignY=30" />
   </div>
   
-  <div align="center" style="margin: auto; display: block" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NisuriMunasinghe&count_private=true" />
-  </div>
+
   
   
 
