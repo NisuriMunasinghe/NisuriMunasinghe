@@ -60,8 +60,8 @@ Here are some ideas to get you started:
   <img align="center" src="https://i.redd.it/dbc57wpc7ar51.gif" alt="Image" height="50" />&nbsp;&nbsp;&nbsp;
   <img align="center" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/190f10cafb9836123a6757d583746096-1607512905/Attachment_1607512865/create-personalized-among-us-gif-and-png-for-you.gif" alt="Image" height="80" /></span>
   <code>Languages and Tools:</code>&nbsp;&nbsp;&nbsp;
-   <div><img align="center" src="https://64.media.tumblr.com/73882834fcc10f4b8950110922de9e2a/d02a0f82b5157376-34/s400x600/da563fe4c554aa5f2045f64c2558bf1dd8f76466.gif" alt="Image" height="50" />
-  <img align="center" src="https://i.imgur.com/AJPYieu.gif" alt="Image" height="80" /></div>
+   <span><img align="center" src="https://64.media.tumblr.com/73882834fcc10f4b8950110922de9e2a/d02a0f82b5157376-34/s400x600/da563fe4c554aa5f2045f64c2558bf1dd8f76466.gif" alt="Image" height="50" />
+  <img align="center" src="https://i.imgur.com/AJPYieu.gif" alt="Image" height="80" /></span>
 </h3>
 <p align="center"> 
      <a href="https://reactjs.org/" target="_blank"><kbd>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></kbd>  </a> 
