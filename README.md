@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 <div align="center" style="margin: auto; display: block" >
   <img align="center" src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=180&section=header&text=Hi%20there!%20ヾ(＾-＾)ノ&desc=%20&fontSize=25&descSize=20&fontAlignY=30" />
   
-  <h6 align="center"><code>Profile views:</code></h6>
+  <p align="center"><code>Profile views:</code></p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{NisuriMunasinghe}/count.svg" width="40" alt="NisuriMunasinghe :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{NisuriMunasinghe}/count.svg" width="150" alt="NisuriMunasinghe :: Visitor's Count" /></p>
 
   
   
