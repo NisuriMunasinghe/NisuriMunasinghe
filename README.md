@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <div align="center" style="margin: auto; display: block" >
   <img align="center" src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=180&section=header&text=Hi%20there!%20ヾ(＾-＾)ノ&desc=%20&fontSize=25&descSize=20&fontAlignY=30" />
   
-  <p align="center"><code></code><code><img src="https://www.jlmarketingnh.com/wp-content/uploads/2018/01/eyeball-icon-png-eye-icon-1.png" width="15" alt="NisuriMunasinghe" />Profile views:</code></p>
+  <p align="center"><code><img src="https://www.jlmarketingnh.com/wp-content/uploads/2018/01/eyeball-icon-png-eye-icon-1.png" width="15" alt="NisuriMunasinghe" />&nbsp;Profile views:</code></p>
   
 
 <p align="center"><img src="https://profile-counter.glitch.me/{NisuriMunasinghe}/count.svg" width="150" alt="NisuriMunasinghe :: Visitor's Count" /></p>
