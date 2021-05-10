@@ -49,9 +49,9 @@ Here are some ideas to get you started:
   </div>
 
  <h3 align="center">
-  <img align="center" src="https://i.redd.it/dbc57wpc7ar51.gif" alt="Image" height="50" />
+  <img align="center" src="https://i.redd.it/dbc57wpc7ar51.gif" alt="Image" height="50" />&nbsp;&nbsp;
   <img align="center" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/190f10cafb9836123a6757d583746096-1607512905/Attachment_1607512865/create-personalized-among-us-gif-and-png-for-you.gif" alt="Image" height="80" />
-  <code>Languages and Tools:</code>
+  <code>Languages and Tools:</code>&nbsp;&nbsp;
    <img align="center" src="https://64.media.tumblr.com/73882834fcc10f4b8950110922de9e2a/d02a0f82b5157376-34/s400x600/da563fe4c554aa5f2045f64c2558bf1dd8f76466.gif" alt="Image" height="50" />
   <img align="center" src="https://i.imgur.com/AJPYieu.gif" alt="Image" height="80" />
 </h3>
