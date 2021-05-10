@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://i.pinimg.com/originals/5c/dd/ad/5cddadeb5ed4d48a582cfeb328160826.gif" height="80" />
+<img src="https://i.pinimg.com/originals/5c/dd/ad/5cddadeb5ed4d48a582cfeb328160826.gif" width="800" height="80" />
 
 <img src="https://cdn.dribbble.com/users/31818/screenshots/2091618/dribbb.gif" width="384" height="80"/>
 <img src="https://cdn.dribbble.com/users/31818/screenshots/2091618/dribbb.gif" width="284" height="80"/>
