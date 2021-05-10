@@ -42,9 +42,9 @@ Here are some ideas to get you started:
   
  <h3 align="center"><code>Languages and Tools:</code></h3>
 <p align="center"> 
-     <a href="https://reactjs.org/" target="_blank"><kbd>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></kbd>  </a> 
-  <a href="https://www.blender.org/" target="_blank"> <kbd ><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </kbd></a> 
-  <a href="https://getbootstrap.com" target="_blank"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </kbd></a> 
+     <a href="https://reactjs.org/" target="_blank"><code>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></code>  </a> 
+  <a href="https://www.blender.org/" target="_blank"> <code ><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </code></a> 
+  <a href="https://getbootstrap.com" target="_blank"> <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </code></a> 
   <a href="https://www.cprogramming.com/" target="_blank"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </kbd></a> 
     <a href="https://www.w3schools.com/css/" target="_blank"><kbd> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></kbd> 
        <a href="https://nodejs.org" target="_blank"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></kbd> </a>
