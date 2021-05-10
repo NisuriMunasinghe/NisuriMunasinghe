@@ -36,9 +36,8 @@ Here are some ideas to get you started:
 
 <img src="https://cdn.dribbble.com/users/1194373/screenshots/3568962/ezgif.com-gif-maker__73_.gif" width="340" height="205"/>
 
-<iframe src="https://gifer.com/embed/T2gq" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
 
-<img src="https://i.gifer.com/T2gq.mp4" width="340" height="205"/>
+<img src="https://64.media.tumblr.com/4c404e274cad3d7dc133766ad6e2c184/tumblr_p6u02ohTvb1w3y4ilo1_500.gifv" width="340" height="205"/>
 
 
 
