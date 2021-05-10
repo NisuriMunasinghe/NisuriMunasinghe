@@ -40,8 +40,9 @@ Here are some ideas to get you started:
 <img src="https://64.media.tumblr.com/4c404e274cad3d7dc133766ad6e2c184/tumblr_p6u02ohTvb1w3y4ilo1_500.gif" />
 
 
-<img src="https://cdn.dribbble.com/users/31818/screenshots/2091618/dribbb.gif" width="427" height="180"/>
-<img src="https://cdn.dribbble.com/users/31818/screenshots/2091618/dribbb.gif" width="427" height="180"/>
+<img src="https://cdn.dribbble.com/users/31818/screenshots/2091618/dribbb.gif" width="384" height="100"/>
+<img src="https://cdn.dribbble.com/users/31818/screenshots/2091618/dribbb.gif" width="284" height="100"/>
+<img src="https://cdn.dribbble.com/users/31818/screenshots/2091618/dribbb.gif" width="284" height="100"/>
 
 
 
