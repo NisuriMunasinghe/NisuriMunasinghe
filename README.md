@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   
   <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-  <a href="https://babeljs.io/" target="_blank"> <kbd ><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </kbd></a> 
+     <a href="https://reactjs.org/" target="_blank"><kbd>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></kbd>  </a> 
   <a href="https://www.blender.org/" target="_blank"> <kbd ><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </kbd></a> 
   <a href="https://getbootstrap.com" target="_blank"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </kbd></a> 
   <a href="https://www.cprogramming.com/" target="_blank"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </kbd></a> 
@@ -59,11 +59,12 @@ Here are some ideas to get you started:
   <a href="https://www.mongodb.com/" target="_blank"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </kbd></a> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><kbd> <img src="https://brandslogos.com/wp-content/uploads/thumbs/microsoft-sql-server-logo-vector.svg" alt="mssql" width="40" height="40"/></kbd> </a> 
   <a href="https://www.mysql.com/" target="_blank"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></kbd> </a> 
+   <a href="https://babeljs.io/" target="_blank"> <kbd ><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </kbd></a> 
   <br>
    <a href="https://nodejs.org" target="_blank"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></kbd> </a>
   <a href="https://www.photoshop.com/en" target="_blank"><kbd> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </kbd></a> 
   <a href="https://postman.com" target="_blank"> <kbd> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></kbd>  </a> 
-    <a href="https://reactjs.org/" target="_blank"><kbd>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></kbd>  </a> 
+ 
     <a href="https://redux.js.org" target="_blank"> <kbd> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></kbd>  </a> 
     <br>
     <a href="https://sass-lang.com" target="_blank"><kbd>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </kbd> </a> 
