@@ -48,11 +48,11 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://profile-counter.glitch.me/{NisuriMunasinghe}/count.svg" width="150" alt="NisuriMunasinghe :: Visitor's Count" /></p>
 
  
-  <p>
+
  
   <img align="center" src="https://data.whicdn.com/images/328100812/original.gif" alt="Image" height="200" />
   
-</p>
+
   
 
   
