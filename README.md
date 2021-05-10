@@ -27,6 +27,14 @@ Here are some ideas to get you started:
 
 -->
 
+<style>
+kbd {
+  border-radius: 2px;
+  padding: 2px;
+  border: 1px solid black;
+}
+</style>
+
 
 
 
