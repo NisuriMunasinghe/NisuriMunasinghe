@@ -64,8 +64,7 @@ Here are some ideas to get you started:
    <a href="https://nodejs.org" target="_blank"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></kbd> </a>
   <a href="https://www.photoshop.com/en" target="_blank"><kbd> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </kbd></a> 
   <a href="https://postman.com" target="_blank"> <kbd> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></kbd>  </a> 
- 
-    <a href="https://redux.js.org" target="_blank"> <kbd> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></kbd>  </a> 
+ <a href="https://redux.js.org" target="_blank"> <kbd> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></kbd>  </a> 
     <br>
     <a href="https://sass-lang.com" target="_blank"><kbd>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </kbd> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank"><kbd>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></kbd>  </a> 
