@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NisuriMunasinghe)](https://github.com/NisuriMunasinghe/github-readme-stats)
+  <p><img align="center" src="https://komarev.com/ghpvc/?username=NisuriMunasinghe&color=brightgreen" alt="NisuriMunasinghe" /></p>
 
 -->
 
@@ -39,9 +40,10 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://profile-counter.glitch.me/{NisuriMunasinghe}/count.svg" width="150" alt="NisuriMunasinghe :: Visitor's Count" /></p>
 
+  <br>
+  <br>
   
-  
-  <p><img align="center" src="https://komarev.com/ghpvc/?username=NisuriMunasinghe&color=brightgreen" alt="NisuriMunasinghe" /></p>
+
   
   </div>
   
