@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <div align="center" style="margin: auto; display: block" >
   <img align="center" src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=180&section=header&text=Hi%20there!%20ヾ(＾-＾)ノ&desc=%20&fontSize=25&descSize=20&fontAlignY=30" />
   
-  <p align="center"><kbd><img src="https://www.jlmarketingnh.com/wp-content/uploads/2018/01/eyeball-icon-png-eye-icon-1.png" width="10" alt="NisuriMunasinghe" /></kbd><code>Profile views:</code></p>
+  <p align="center bottom"><kbd><img src="https://www.jlmarketingnh.com/wp-content/uploads/2018/01/eyeball-icon-png-eye-icon-1.png" width="10" alt="NisuriMunasinghe" /></kbd><code>Profile views:</code></p>
   
 
 <p align="center"><img src="https://profile-counter.glitch.me/{NisuriMunasinghe}/count.svg" width="150" alt="NisuriMunasinghe :: Visitor's Count" /></p>
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
  
 
  
-  <img align="center" src="https://data.whicdn.com/images/328100812/original.gif" alt="Image" height="200" />
+  <img align="center top" src="https://data.whicdn.com/images/328100812/original.gif" alt="Image" height="200" />
   
 
   
