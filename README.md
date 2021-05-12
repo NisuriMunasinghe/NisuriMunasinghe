@@ -31,6 +31,13 @@ Here are some ideas to get you started:
    <img align="center" src="https://64.media.tumblr.com/73882834fcc10f4b8950110922de9e2a/d02a0f82b5157376-34/s400x600/da563fe4c554aa5f2045f64c2558bf1dd8f76466.gif" alt="Image" height="50" />
   <img align="center" src="https://i.imgur.com/AJPYieu.gif" alt="Image" height="80" />
    <img align="center" src="https://i.pinimg.com/originals/8d/c4/68/8dc468e9a6bfee504dcce2af8ce6950c.gif" alt="Image" height="120" />
+   
+   
+   https://lh3.googleusercontent.com/proxy/NHAuhLhtTQwUGQRLXK9UUyYktBFtlFEuAiaA-hfhUpPbAK3l0y6iJRughK_DmS4sZisCVHpxAcMKiuv19RTFYWYBeGBzgD4eww
+   
+   <p align="Center" ><img  align="right" src="https://lh3.googleusercontent.com/proxy/NHAuhLhtTQwUGQRLXK9UUyYktBFtlFEuAiaA-hfhUpPbAK3l0y6iJRughK_DmS4sZisCVHpxAcMKiuv19RTFYWYBeGBzgD4eww" width="180" alt="NisuriMunasinghe" /> <img  align="left" src="https://lh3.googleusercontent.com/proxy/NHAuhLhtTQwUGQRLXK9UUyYktBFtlFEuAiaA-hfhUpPbAK3l0y6iJRughK_DmS4sZisCVHpxAcMKiuv19RTFYWYBeGBzgD4eww" width="180" alt="NisuriMunasinghe" /></p>
+<br>
+<br>
 
 -->
 
@@ -94,26 +101,29 @@ Here are some ideas to get you started:
   <br>
     <br>
    
-
   
 <p align="Center" ><kbd align="right"><img  src="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="110" alt="NisuriMunasinghe" /> </kbd><img align="center" align="left" src="https://miro.medium.com/max/4481/1*X_FFeLvsgZ0Q-weKkc_byw.gif" width="180" alt="NisuriMunasinghe" /></p>
-  
-  
 
-<p align="Center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NisuriMunasinghe&&count_private=true&no-bg-true&theme=darkhub" alt="NisuriMunasinghe" /></a> </p>
+
+
+  
+ <p align="Center" > <img  align="center" src="https://i.pinimg.com/originals/74/58/e9/7458e958724f49b3c1dcf830a3ea31ac.png" width="250" alt="NisuriMunasinghe" /></p> 
+
+<p align="Center" ><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NisuriMunasinghe&&count_private=true&no-bg-true&theme=darkhub" alt="NisuriMunasinghe" /></a> </p>
+
+ <p align="Center" > <img  align="center" src="https://i.pinimg.com/originals/de/36/18/de36185d0390af140fd3438b2a9b4423.png" width="250" alt="NisuriMunasinghe" /></p> 
+
+
+
 
 
 
 
 
 <div align="center" style="margin: auto; display: block" >
-  
+  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NisuriMunasinghe&count_private=true&show_icons=true&locale=en&theme=chartreuse-dark"NisuriMunasinghe" /></p>
 
-
-
-<p style="float: left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NisuriMunasinghe&count_private=true&show_icons=true&locale=en&theme=chartreuse-dark"NisuriMunasinghe" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NisuriMunasinghe&theme=chartreuse-dark" alt="NisuriMunasinghe" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NisuriMunasinghe&theme=chartreuse-dark" alt="NisuriMunasinghe" /></p>
 
 
 
