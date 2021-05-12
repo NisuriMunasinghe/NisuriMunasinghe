@@ -96,11 +96,13 @@ Here are some ideas to get you started:
    
 
   
-
+<p align="Center" ><kbd align="right"><img  src="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="110" alt="NisuriMunasinghe" /> </kbd><img align="center" align="left" src="https://miro.medium.com/max/4481/1*X_FFeLvsgZ0Q-weKkc_byw.gif" width="180" alt="NisuriMunasinghe" /></p>
   
   
 
 <p align="Center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NisuriMunasinghe&&count_private=true&no-bg-true&theme=darkhub" alt="NisuriMunasinghe" /></a> </p>
+
+
 
 
 
