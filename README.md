@@ -38,6 +38,7 @@ Here are some ideas to get you started:
    <p align="Center" ><img  align="right" src="https://lh3.googleusercontent.com/proxy/NHAuhLhtTQwUGQRLXK9UUyYktBFtlFEuAiaA-hfhUpPbAK3l0y6iJRughK_DmS4sZisCVHpxAcMKiuv19RTFYWYBeGBzgD4eww" width="180" alt="NisuriMunasinghe" /> <img  align="left" src="https://lh3.googleusercontent.com/proxy/NHAuhLhtTQwUGQRLXK9UUyYktBFtlFEuAiaA-hfhUpPbAK3l0y6iJRughK_DmS4sZisCVHpxAcMKiuv19RTFYWYBeGBzgD4eww" width="180" alt="NisuriMunasinghe" /></p>
 <br>
 <br>
+<kbd><img src="https://www.jlmarketingnh.com/wp-content/uploads/2018/01/eyeball-icon-png-eye-icon-1.png" width="10" alt="NisuriMunasinghe" /></kbd>
 
 -->
 
@@ -49,7 +50,7 @@ Here are some ideas to get you started:
 <div align="center" style="margin: auto; display: block" >
   <img align="center" src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=180&section=header&text=Hi%20there!%20ヾ(＾-＾)ノ&desc=%20&fontSize=25&descSize=20&fontAlignY=30" />
   
-  <p align="center bottom"><kbd><img src="https://www.jlmarketingnh.com/wp-content/uploads/2018/01/eyeball-icon-png-eye-icon-1.png" width="10" alt="NisuriMunasinghe" /></kbd><code>Profile views:</code></p>
+  <p align="center bottom"><code>Profile views:</code></p>
   
 
 <p align="center"><img src="https://profile-counter.glitch.me/{NisuriMunasinghe}/count.svg" width="150" alt="NisuriMunasinghe :: Visitor's Count" /></p>
